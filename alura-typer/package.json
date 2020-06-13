@@ -1,7 +1,7 @@
 {
-  "name": "eletron",
+  "name": "scamreembolsolite",
   "version": "1.0.0",
-  "description": "",
+  "description": "SCAM Reembolso Lite",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
